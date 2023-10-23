@@ -8,6 +8,37 @@
     </p>
 </section>
 
+<!-- Mother's Age and Birth Rates Section -->
+<section id="mothers-age-birthrates">
+    <h2>Mother's Age and Birth Rates</h2>
+    <p>Engage with the findings in the 
+       <a href="https://github.com/chsimpsonBU/FinalPortfolio/blob/130ada313aac33a57f350ce45c70c34e6c01a429/Week%207.ipynb">Mother's Age and Birth Rates notebook</a>.
+    </p>
+</section>
+<!-- Exploring Crime Data Section -->
+<section id="exploring-crime-data">
+    <h2>Exploring Crime Data</h2>
+    <p>Delve into an analytical journey with the 
+       <a href="https://github.com/chsimpsonBU/FinalPortfolio/blob/130ada313aac33a57f350ce45c70c34e6c01a429/Week%203%264.ipynb">Exploring Crime Data notebook</a>.
+    </p>
+</section>
+
+<!-- What Movie Should I Watch? Section -->
+<section id="what-movie-should-i-watch">
+    <h2>What Movie Should I Watch?</h2>
+    <p>Dive into the analytics and recommendations in the 
+       <a href="https://github.com/chsimpsonBU/FinalPortfolio/blob/130ada313aac33a57f350ce45c70c34e6c01a429/Simpson630%20week10.2.ipynb">What Movie Should I Watch? notebook</a>.
+    </p>
+</section>
+
+
+<!-- Predicting Marriage Age Section -->
+<section id="predicting-marriage-age">
+    <h2>Predicting Marriage Age</h2>
+    <p>Discover the methodologies and insights in the 
+       <a href="https://github.com/chsimpsonBU/FinalPortfolio/blob/130ada313aac33a57f350ce45c70c34e6c01a429/Week%2011.ipynb">Predicting Marriage Age notebook</a>.
+    </p>
+</section>
 
 <!-- IRIS Project Section -->
 <section id="iris-project">
