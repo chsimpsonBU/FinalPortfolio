@@ -1,5 +1,3 @@
-theme: jekyll-theme-cayman
-
 # Christopher's Data Science Journey
 
 <!-- About Me Section -->
