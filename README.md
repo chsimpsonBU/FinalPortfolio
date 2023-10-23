@@ -31,3 +31,12 @@
     </p>
 </section>
 
+<!-- Video Game Sales Analysis Section -->
+<section id="video-game-sales">
+    <h2>Video Game Sales Analysis</h2>
+    <p>Discover the insights and data in the 
+       <a href="https://github.com/chsimpsonBU/FinalPortfolio/blob/a593b2a7f239ae2f1827181a678a94b3048b3372/DSC%20630%20Week%201.ipynb">Video Game Sales Analysis notebook</a>.
+    </p>
+</section>
+
+
