@@ -1,5 +1,14 @@
 # Christopher's Data Science Journey
 
+<!-- About Me Section -->
+<section id="about-me">
+    <h2>About Me</h2>
+    <p>
+        Hailing from the beautiful state of Kentucky, I have dedicated 15 years of my career to higher education. Over this period, my journey has seen me wear many hats, but a particularly transformative experience has been my foray into the world of data analysis. This wasn't a formal classroom education, but rather a practical, on-the-job learning experience. I found myself working with large financial files and intricate datasets, diving deep into the nuances of data to derive meaningful insights. This hands-on experience, coupled with my rich professional background, has equipped me with a unique perspective and a diverse skill set.
+    </p>
+</section>
+
+
 <!-- IRIS Project Section -->
 <section id="iris-project">
     <h2>IRIS Project</h2>
