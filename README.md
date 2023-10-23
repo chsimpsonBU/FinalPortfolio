@@ -3,9 +3,11 @@
 <!-- IRIS Project Section -->
 <section id="iris-project">
     <h2>IRIS Project</h2>
-    <p>Description and details about the IRIS project.</p>
-    <!-- Add any images, links, or further content related to this project -->
+    <p>Explore the intricacies of the 
+       <a href="https://github.com/chsimpsonBU/FinalPortfolio/blob/8aa295d295f7705cc07e6fcd84083dbef5f0cdde/550%20Week%202-checkpoint.ipynb">IRIS Project notebook</a>.
+    </p>
 </section>
+
 
 <!-- Obama Ratings Section -->
 <section id="obama-ratings">
@@ -38,5 +40,15 @@
        <a href="https://github.com/chsimpsonBU/FinalPortfolio/blob/a593b2a7f239ae2f1827181a678a94b3048b3372/DSC%20630%20Week%201.ipynb">Video Game Sales Analysis notebook</a>.
     </p>
 </section>
+
+<!-- Mushroom Confusion Matrix Section -->
+<section id="mushroom-matrix">
+    <h2>Mushroom Confusion Matrix</h2>
+    <p>Dive deep into the details with the 
+       <a href="https://github.com/chsimpsonBU/FinalPortfolio/blob/7110bfa6e563d06dd6b2fe1c57981c10a1417ea5/550Week7.ipynb">Mushroom Confusion Matrix notebook</a>.
+    </p>
+    <!-- Optionally, you can add more content or a brief description related to this project -->
+</section>
+
 
 
