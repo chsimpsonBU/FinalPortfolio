@@ -22,3 +22,12 @@
        <a href="https://github.com/chsimpsonBU/FinalPortfolio/blob/0112b63a5f68d079481b4eb2ab0e8ea24214724a/12.2%20Term%20Project.ipynb">Customer Loyalty Plan Change Analysis notebook</a>.
     </p>
 </section>
+
+<!-- Take Me Out to the Ball Game! Section -->
+<section id="ball-game">
+    <h2>Take Me Out to the Ball Game!</h2>
+    <p>Dive into the analysis presented in the 
+       <a href="https://github.com/chsimpsonBU/FinalPortfolio/blob/58ff1a64c45ba4698d8b2cd3e625df4c29b80628/630%20week%203.ipynb">Take Me Out to the Ball Game! notebook</a>.
+    </p>
+</section>
+
